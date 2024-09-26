@@ -11,3 +11,23 @@ const API_ENDPOINT = 'https://yesno.wtf/api';
  * 5. Optional: add loading/error states
  *
  */
+
+async function fetchAnswer() {
+     try{
+        const response = await fetch('https://yesno.wtf/api');
+
+        const data = await response.json();
+
+        const answerDiv = document.getElementById('anser');
+
+        const answerImage = document.getElementById ('answer Image');
+
+        setTimeout((500))
+
+     }catch{
+      console.error('Error fetching answer:', error);
+     }
+    
+}
+
+
