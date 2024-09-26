@@ -14,15 +14,14 @@ En este reto reforzaras tus conocimientos en JavaScript, realizando una llamadas
 
 ### Reglas
 
-- Debes compartir tu pantalla y mantener encendida tu cámara web
-- Debes escribir el código JS en el archivo script.js que esta dentro de la carpeta starter-files.
+- Debes compartir tu pantalla y mantener encendida tu cámara web.
+- Debes escribir el código JS en el archivo script.js que está dentro de la carpeta starter-files.
 - Durante el desafío debes explicar todos los pasos que realices.
 - Debes responder a las preguntas que haga el entrevistador.
 
 ### Bonus
 
-1.- Valida que no se pueda dar click al botón si el input esta vacio.
-
+1.- Valida que no se pueda dar click al botón si el input está vacío.
 
 ### Preview
 <img src="/preview.gif" height="500" style="border-radius:10px;margin-bottom:1rem;" />
@@ -34,6 +33,4 @@ En este reto reforzaras tus conocimientos en JavaScript, realizando una llamadas
     text-align:center;
     font-weight:600;
     font-size:0.85rem">
-    <!-- <a style="color:black;" href="https://danascript.github.io/the-ultimate-api-challenge-yes-no/" target="_blank" rel="noopener">Live Preview</a> -->
 </div>
-
